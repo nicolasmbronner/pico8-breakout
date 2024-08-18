@@ -23,6 +23,13 @@ Also added a pico-8 file : "slope_map.p8", which is a graphic to help understdan
 
 
 
+# Extras
+- **collision detection by elimination.p8** : is a working prototype showing collision detection using elimination tests
+- **collision deflection.p8** : is another working prototype showing rules of deflection using comparison of ball direction slope VS corner-ball slope
+- **slope_map.p8** : is yet another prototype of a schema indicating a map of slopes, easy to understand and grasp
+
+
+
 # breakout - 2024-08-17, 00h23
 This version can detect collisions between the ball and the paddle, nothing else but it's stable.
 
