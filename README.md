@@ -1,9 +1,15 @@
 # pico8-breakout
 I'm creating a Breakout / Arkanoid game in pico-8 following a course from Lazy Devs Youtube channel
 
+# breakout - 2024-08-20, 00h33
+### Improved UX for Ball Deflection on the Paddle
+
+From now on, if the ball touches the paddle's side, it will bounce in a way that saves the ball, and before the bounce, teleport it right above the paddle's collision level, which make the game much more friendly.
+
+
 
 # breakout - 2024-08-18, 00h30
-### Implementation of Ball Deflections in Breakout
+### Implementation of Ball Deflections for the Paddle
 
 This update adds advanced collision handling and ball deflections to our Breakout game. Here are the main new features:
 
